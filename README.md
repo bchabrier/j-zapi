@@ -1,6 +1,8 @@
 # j-zapi
 ZAPI Java implementation
 
+This repository has been re-created from https://code.google.com/archive/p/j-zapi, which was stopped at release 0.0.5. 
+
 ## j-zapi
 
 Une implementation Java de l'API de la Zibase
